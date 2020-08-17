@@ -11,3 +11,16 @@ C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.csproj.C
 C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.dll
 C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.pdb
 C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.genruntimeconfig.cache
+C:\Users\user\Documents\dotnetexperiments\hello world\obj\Debug\netcoreapp3.1\hello world.csprojAssemblyReference.cache
+C:\Users\user\Documents\dotnetexperiments\hello world\obj\Debug\netcoreapp3.1\hello world.AssemblyInfoInputs.cache
+C:\Users\user\Documents\dotnetexperiments\hello world\obj\Debug\netcoreapp3.1\hello world.AssemblyInfo.cs
+C:\Users\user\Documents\dotnetexperiments\hello world\obj\Debug\netcoreapp3.1\hello world.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dotnetexperiments\hello world\obj\Debug\netcoreapp3.1\hello world.dll
+C:\Users\user\Documents\dotnetexperiments\hello world\obj\Debug\netcoreapp3.1\hello world.pdb
+C:\Users\user\Documents\dotnetexperiments\hello world\bin\Debug\netcoreapp3.1\hello world.exe
+C:\Users\user\Documents\dotnetexperiments\hello world\bin\Debug\netcoreapp3.1\hello world.deps.json
+C:\Users\user\Documents\dotnetexperiments\hello world\bin\Debug\netcoreapp3.1\hello world.runtimeconfig.json
+C:\Users\user\Documents\dotnetexperiments\hello world\bin\Debug\netcoreapp3.1\hello world.runtimeconfig.dev.json
+C:\Users\user\Documents\dotnetexperiments\hello world\bin\Debug\netcoreapp3.1\hello world.dll
+C:\Users\user\Documents\dotnetexperiments\hello world\bin\Debug\netcoreapp3.1\hello world.pdb
+C:\Users\user\Documents\dotnetexperiments\hello world\obj\Debug\netcoreapp3.1\hello world.genruntimeconfig.cache
