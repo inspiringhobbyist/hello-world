@@ -3,7 +3,7 @@ namespace helloworld
 {
   class program
   {
-    static void Main(string[] arg)
+    static void main(string[] args)
     {
       Console.WriteLine("hello world");
       
